@@ -1,0 +1,22 @@
+h1 {color:white; font-size: 50px;}
+h2{color:red; font-size: 20px;}
+h3{color:white;}
+h4{color:gold;}
+#nrtel {color:yellow;}
+table, th, td {
+border: 1px solid black;}
+h2 solid {border-style: solid;}
+img {border: 2px solid ;
+  border-radius: 100px; 
+  opacity: 1.0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;}
+  body 
+{
+  background-image: url('fundal.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
